@@ -1,4 +1,4 @@
-me: Publish Package to GitHub NPM Registry
+name: Publish Package to GitHub NPM Registry
 
 on: 
   release:
